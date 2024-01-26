@@ -82,6 +82,7 @@ class _InputPageState extends State<InputPage> {
                 ),
               ],
             ),
+
           ),
           Container(
             color: bottomContainerColor,
